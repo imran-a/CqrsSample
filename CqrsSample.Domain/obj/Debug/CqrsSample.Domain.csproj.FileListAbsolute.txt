@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Domain.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Domain.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Contracts.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Infrastructure.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Infrastructure.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Contracts.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\CqrsSample.Contracts.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\obj\Debug\CqrsSample.Domain.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\obj\Debug\CqrsSample.Domain.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Domain\obj\Debug\CqrsSample.Domain.pdb

@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\CqrsSample.Contracts.XML
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\CqrsSample.Contracts.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\CqrsSample.Contracts.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\CqrsSample.Infrastructure.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\FSharp.Core.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\CqrsSample.Infrastructure.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\FSharp.Core.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.fsprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.pdb
