@@ -22,7 +22,6 @@ namespace CqrsSample.Controllers
             var domainRepository = new EventStoreDomainRepository(connection);
             var application = new DomainEntry(domainRepository);
 
-
             var userCommand = new CreateUser(new Guid(), "first", "surname");
 
             application.ExecuteCommand(userCommand);
