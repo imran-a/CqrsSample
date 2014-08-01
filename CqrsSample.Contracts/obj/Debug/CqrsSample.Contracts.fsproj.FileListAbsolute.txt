@@ -10,3 +10,5 @@ C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\Newtonsoft.Json.xml
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.fsprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.dll
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\obj\Debug\CqrsSample.Contracts.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\EventStore.ClientAPI.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Contracts\bin\Debug\EventStore.ClientAPI.xml

@@ -44,6 +44,10 @@
     <Reference Include="CqrsSample.Contracts">
       <HintPath>..\CqrsSample.Contracts\bin\Debug\CqrsSample.Contracts.dll</HintPath>
     </Reference>
+    <Reference Include="EventStore.ClientAPI, Version=2.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EventStore.Client.2.0.2\lib\net40\EventStore.ClientAPI.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -164,6 +168,7 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Configuration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -238,6 +243,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CqrsSample.Domain\CqrsSample.Domain.csproj">
+      <Project>{EF0500D8-293B-478B-9910-AEA0AEF829B4}</Project>
+      <Name>CqrsSample.Domain</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CqrsSample.Infrastructure\CqrsSample.Infrastructure.csproj">
       <Project>{F562C558-17B7-47D0-BFAB-7B1BD382FDAF}</Project>
       <Name>CqrsSample.Infrastructure</Name>

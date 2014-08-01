@@ -58,3 +58,7 @@ C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Infrastructure.dll
 C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Infrastructure.pdb
 C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Contracts.pdb
 C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Contracts.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\EventStore.ClientAPI.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\EventStore.ClientAPI.xml
+C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Domain.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample\bin\CqrsSample.Domain.pdb

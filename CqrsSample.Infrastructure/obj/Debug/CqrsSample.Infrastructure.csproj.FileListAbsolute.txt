@@ -5,3 +5,5 @@ C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\bin\Debug\Newtonsoft.Jso
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\bin\Debug\Newtonsoft.Json.xml
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\obj\Debug\CqrsSample.Infrastructure.dll
 C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\obj\Debug\CqrsSample.Infrastructure.pdb
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\bin\Debug\EventStore.ClientAPI.dll
+C:\inetpub\wwwroot\CqrsSample\CqrsSample.Infrastructure\bin\Debug\EventStore.ClientAPI.xml
